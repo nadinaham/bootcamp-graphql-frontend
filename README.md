@@ -1,3 +1,9 @@
+# NADINE'S NOTES
+
+Apollo Hooks was partially implemented as of the end of the lectures, user authentication wasn't implemented in this practice repo but was in the actual project I did with my team (Group 1) - TLDR I basically would have added the login/logout/register mutations into my backend, then made separate containers in the frontend for Login/Register which would each return a form for input of user credentials; the token stuff would have incorporated the token generator and caller library Eric found (npm install jwt-decode). 
+
+Also yeah, mutations are out of wack here lol - managed to figure them out fully during the final project after lots of suffering :')
+
 # DEV React-Apollo Starter
 
 ### Getting Started
